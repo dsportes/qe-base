@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MonApp
+Type=Application
+Exec=/home/daniel/git/qe-base/dist/electron/monapp-linux-x64/balance
+Terminal=false
+Icon=/home/daniel/git/qe-base/monapp.png
+NoDisplay=false
+Categories=Development;IDE;
+Name[fr_FR]=MonApp
